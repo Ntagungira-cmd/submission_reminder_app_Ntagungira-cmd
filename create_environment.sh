@@ -37,6 +37,15 @@ mkdir -p "$main_dir/assets"
 # Copy or create necessary files
 # Note: Assuming the provided files are in the current directory
 
+# Copy the startup.sh scrip to the main directory
+if [ -f "startup.sh" ]; then
+    cp startup.sh "$main_dir/"
+    chmod +x "$main_dir/startup.sh"
+    echo "Copied startup.sh to main directory and made it executable"
+else
+    echo "Warning: startup.sh not found in current directory"
+fi
+
 # Copy config.env to config directory
 if [ -f "config.env" ]; then
     cp config.env "$main_dir/config/"

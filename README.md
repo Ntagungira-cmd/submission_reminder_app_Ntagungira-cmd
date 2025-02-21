@@ -20,12 +20,28 @@ The Student Submission Reminder Application is a shell-based system that helps t
 ``` git clone < repository-url > ```
 ```cd < repository-name > ```
 
-- Make the setup script executable
+- Make the setup script executable if it isn't already
 
 ``` chmod +x create_environment.sh ```
 
 - Run the setup script
 
-./create_environment.sh
+```./create_environment.sh```
 
 - Follow the prompts to enter your name when asked
+
+- The application is now ready to use
+  To run the application, use the following command:
+  ``` submission_reminder_[your-name]/./ startup.sh ```
+
+submission_reminder_[your-name]: is the application directory created by the environment setup script
+
+### If you are successful in setting up the application, you should see the following output:
+
+![Alt Text](/examples/Screenshot%20from%202025-02-21%2021-19-04.png)
+
+
+### If you are successful running the application, you should see a similar output:
+
+![Alt Text](/examples/Screenshot%20from%202025-02-21%2021-37-58.png)
+
