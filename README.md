@@ -31,8 +31,8 @@ The Student Submission Reminder Application is a shell-based system that helps t
 - Follow the prompts to enter your name when asked
 
 - The application is now ready to use
-  To run the application, use the following command:
-  ``` submission_reminder_[your-name]/./ startup.sh ```
+  To run the application, use the following command in the generate directory:
+  ``` ./ startup.sh ```
 
 submission_reminder_[your-name]: is the application directory created by the environment setup script
 
