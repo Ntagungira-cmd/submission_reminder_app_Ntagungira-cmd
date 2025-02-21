@@ -33,6 +33,8 @@ The Student Submission Reminder Application is a shell-based system that helps t
 ### Directory Structure
 After running the setup script, the following directory structure will be created:
 submission_reminder_[your-name]/
+
+
 ├── config/
 │   └── config.env         # Configuration settings
 ├── assets/
