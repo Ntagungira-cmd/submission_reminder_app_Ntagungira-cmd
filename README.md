@@ -18,6 +18,9 @@ The Student Submission Reminder Application is a shell-based system that helps t
 - Clone the repository
 
 ``` git clone < repository-url > ```
+
+- Enter the cloned repository
+  
 ```cd < repository-name > ```
 
 - Make the setup script executable if it isn't already
