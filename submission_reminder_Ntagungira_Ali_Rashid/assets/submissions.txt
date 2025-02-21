@@ -1,0 +1,16 @@
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Emeka, Bash Scripting, submitted
+Aisha, File Permissions, not submitted
+Kofi, Linux Processes, submitted
+Fatima, Networking Basics, not submitted
+Omar, System Monitoring, submitted
+Blessing, Shell Scripting, submitted
+Jean, File Management, not submitted
+Mwangi, Git Branching, submitted
+Zainab, Package Management, submitted
+Kwame, Environment Variables, not submitted
+Hadiza, Cron Jobs, submitted
