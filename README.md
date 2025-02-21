@@ -29,18 +29,3 @@ The Student Submission Reminder Application is a shell-based system that helps t
 ./create_environment.sh
 
 - Follow the prompts to enter your name when asked
-
-### Directory Structure
-After running the setup script, the following directory structure will be created:
-submission_reminder_[your-name]/
-
-
-├── config/
-│   └── config.env         # Configuration settings
-├── assets/
-│   └── submissions.txt    # Student submission records
-├── modules/
-│   └── functions.sh       # Helper functions
-├── app/
-│   └── reminder.sh        # Main reminder script
-└── startup.sh            # Application startup script
